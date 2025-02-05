@@ -2,6 +2,7 @@
 
 Hey there! 👋 Welcome to my project, 
 This is where I dive into customer segmentation, market research, and a bit of A/B testing to figure out how to sell loans smarter with GTM strategy, unlocking a 30% Increase in Loan Applications post campaign. 
+
 Before we dive in, just a quick note: Some details are hidden due to company data privacy. I’ll give you a clear overview of the thought process, strategy, and insights that made this work. If you want to chat more about any part of this, ping me for a coffee chat! ☕️
 
 So, what’s this project about?
