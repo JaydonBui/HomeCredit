@@ -75,6 +75,7 @@ To validate our findings, I ran A/B tests on different audience groups:
 - Group A: Focused on child-related loan needs for women.
 
 - Group B: Promoted fast, unsecured loans for digital-savvy users.
+  
 ✅ Measured impact:
 
 - Higher engagement from moms & families when messaging included education & child expenses.
@@ -101,7 +102,6 @@ Based on real data & performance insights, here’s our refined strategy for max
 
 3️⃣ Conversion Rate Optimization: Less Friction, More Loans - Form Simplification to maintain high application completion rates.
 
-https://github.com/JaydonBui/HomeCredit/blob/main/Customer%20digital%20behaviors.png
 
 ☕ Let’s Chat!
 
